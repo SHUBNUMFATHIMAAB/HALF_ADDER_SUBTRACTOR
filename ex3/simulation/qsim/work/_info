@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\acer\Desktop\New folder\ex3\simulation\qsim
+vex3
+Z1 Ilog3Fn6TL;DTJh;@F]gjf0
+Z2 V;O52Wo=1>X9TBkUNSbhHL2
+Z3 dC:\Users\acer\Desktop\New folder\ex3\simulation\qsim
+Z4 w1779351039
+Z5 8ex3.vo
+Z6 Fex3.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 3A=DXin8YlAH_b29][1Ve3
+!s85 0
+Z10 !s108 1779351042.319000
+Z11 !s107 ex3.vo|
+Z12 !s90 -work|work|ex3.vo|
+!s101 -O0
+vex3_vlg_check_tst
+!i10b 1
+!s100 _O]]79cK^SQ8R<?D:QXH62
+IeiTE:4?FYbjB=gK8U^9X^1
+VkGjiT4[bh<lLTz^]hee9U0
+R3
+Z13 w1779351038
+Z14 8ex3.vt
+Z15 Fex3.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z16 !s108 1779351042.410000
+Z17 !s107 ex3.vt|
+Z18 !s90 -work|work|ex3.vt|
+!s101 -O0
+R8
+vex3_vlg_sample_tst
+!i10b 1
+!s100 i?KPEETHU^OhXSlK2]jUV1
+IZ@_Va2LTzhMI540bbB=DR0
+Vg?RZCMLPNb4fTz48RDNWh2
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vex3_vlg_vec_tst
+!i10b 1
+!s100 cj^]N`Pm2D9JnV>[m367e3
+I^RcHJcD_fJHGZ7XcnYAk_0
+V=PXT:;DM?;nnimaaSe4C81
+R3
+R13
+R14
+R15
+L0 235
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
